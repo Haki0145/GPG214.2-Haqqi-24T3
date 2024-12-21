@@ -1,0 +1,8 @@
+ManifestFileVersion: 0
+UnityVersion: 2023.2.7f1
+CRC: 820424071
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: weektwelve
+      Dependencies: {}

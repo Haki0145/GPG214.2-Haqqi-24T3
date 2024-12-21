@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+UnityVersion: 2023.2.7f1
+CRC: 1324512261
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 22ecaa2447a978ced871f821765cfc77
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b1e3f861dd2bec3b1af3681be6ca18ce
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: f167debe64098e7b20f7e3277531e038
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs/Ground.prefab
+Dependencies: []
